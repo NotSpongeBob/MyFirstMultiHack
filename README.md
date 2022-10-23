@@ -1,2 +1,2 @@
 # MyFirstMultiHack
-Its Garbage the glow doesnt work properly dont know why i will try to fix it later i was struggling to make a triggerbot for 4 days straight the bhop is simple havent added aimbot yet i dont even know where to start tbh dont really want to copy other people code  
+Pls No Bully so the the glow doesnt work properly dont know why it glows everyone the same color might just try to do a box esp at this point havent added aimbot yet dont want to copy other peoples code like i did when i first started gamehacking the triggerbot is simple but somehow i struggled for 4 days idk me dumb 
