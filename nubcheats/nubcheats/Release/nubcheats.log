@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\ok\Desktop\nubcheats\nubcheats\dllmain.cpp(82,76): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ok\Desktop\nubcheats\nubcheats\dllmain.cpp(89,76): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\ok\Desktop\nubcheats\nubcheats\dllmain.cpp(153,6): warning C4551: function call missing argument list
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  nubcheats.vcxproj -> C:\Users\ok\Desktop\nubcheats\Release\nubcheats.dll
